@@ -1,0 +1,286 @@
+TUSS,DESCRICAO
+41101340,Angioressonância Aorta Abdominal
+41101332,Angioressonância Aorta Torácica
+41101510,Angioressonância Arterial de Abdome Superior
+41101537,Angioressonância Arterial de Crânio
+41101553,Angioressonância Arterial de Membro Inferior (Unilateral)
+41101570,Angioressonância Arterial de Membro Superior (Unilateral)
+41101596,Angioressonância Arterial de Pelve
+41101618,Angioressonância Arterial de Pescoço
+41101499,Angioressonância Arterial Pulmonar
+41101529,Angioressonância Venosa de Abdome Superior
+41101545,Angioressonância Venosa de Crânio
+41101561,Angioressonância Venosa de Membro Inferior (Unilateral)
+41101588,Angioressonância Venosa de Membro Superior (Unilateral)
+41101600,Angioressonância Venosa de Pelve
+41101626,Angioressonância Venosa de Pescoço
+41101502,Angioressonância Venosa Pulmonar
+40809170,Artroressonância Articular (Incluir Punção para Introdução de Contraste)
+40809170,Artroressonância Joelho (Incluir Punção para Introdução de Contraste)
+40809170,Artroressonância Mão (Incluir Punção para Introdução de Contraste)
+40809170,Artroressonância Ombro (Incluir Punção para Introdução de Contraste)
+40809170,Artroressonância Punho (Incluir Punção para Introdução de Contraste)
+40809170,Artroressonância Quadril (Incluir Punção para Introdução de Contraste)
+41101065,Espectroscopia por Ressonância Magnética
+41101057,Perfusão Cerebral por Ressonância Magnética
+41101170,Ressonância Magnética Abdome Superior
+41101189,Ressonância Magnética Abdome Total
+41101251,Ressonância Magnética Antebraço (Unilateral)
+41101316,Ressonância Magnética Articular - Por Articulação - (Unilateral)
+41101103,Ressonância Magnética ATM - Articulação Temporomandibular (Bilateral)
+41101430,Ressonância Magnética Avaliação de Ferro (coração e fígado) - Incluir exame de base
+41101278,Ressonância Magnética Bacia - Articulações Sacroilíacas
+41101030,Ressonância Magnética Base Do Crânio
+41101219,Ressonância Magnética Bolsa Escrotal
+41101251,Ressonância Magnética Braço (Unilateral)
+41101359,Ressonância Magnética Colangio-RM
+41101227,Ressonância Magnética Coluna Cervical
+41101227,Ressonância Magnética Coluna Dorsal ou Torácica
+41101227,Ressonância Magnética Coluna Lombar
+41101316,Ressonância Magnética Cotovelo (Unilateral)
+41101286,Ressonância Magnética Coxa (Unilateral)
+41101316,Ressonância Magnética Coxofemoral (Unilateral)
+41101014,Ressonância Magnética Crânio (Encéfalo)
+41101065,Ressonância Magnética Crânio e Espectroscopia
+41101456,Ressonância Magnética Crânio e Difusão
+41101073,Ressonância Magnética Crânio e Órbitas
+41101456,Ressonância Magnética Difusão - Incluir exame de base  (Unilateral)
+41101316,Ressonância Magnética Esternoclavicular (Unilateral)
+41101090,Ressonância Magnética Face (Inclui Seios Da Face)
+41101235,Ressonância Magnética - Fluxo Liquórico (como complementar) - Incluir exame de base
+41101359,Ressonância Magnética Hidro-RM
+41101316,Ressonância Magnética Joelho (Unilateral)
+41101480,Ressonância Magnética Mama (Bilateral)
+41101260,Ressonância Magnética Mão - Não Inclui Punho - (Unilateral)
+41101359,Ressonância Magnética Mielo-RM
+41101316,Ressonância Magnética Ombro (Unilateral)
+41101073,Ressonância Magnética Órbita (Bilateral)
+41101081,Ressonância Magnética Ossos Temporais (Bilateral)
+41101081,Ressonância Magnética Ouvidos / Mastóides
+41101308,Ressonância Magnética Pé / Antepé - Não Inclui Tornozelo - (Unilateral)
+41101189,Ressonância Magnética Pelve (Não Inclui Articulações Coxofemorais)
+41101200,Ressonância Magnética Pênis
+41101294,Ressonância Magnética Perna (Unilateral)
+41101111,"Ressonância Magnética Pescoço (Nasofaringe, Orofaringe, Laringe, Traqueia, Tireoide, Paratireoide)"
+41101243,Ressonância Magnética Plexo Braquial ou Lombossacral (Unilateral)
+41101189,Ressonância Magnética Próstata Multiparamétrica
+41101316,Ressonância Magnética Punho (Unilateral)
+41101316,Ressonância Magnética Quadril (Unilateral)
+41101383,Ressonância Magnética Reconstrução Tridimensional - Acrescentar ao exame de base
+41101316,Ressonância Magnética Retropé (Unilateral)
+41101278,Ressonância Magnética Sacrococcígea
+41101278,Ressonância Magnética Sacroilíacas
+41101359,Ressonância Magnética Sialo-RM
+41101120,Ressonância Magnética Tórax
+41101316,Ressonância Magnética Tornozelo (Unilateral)
+41101359,Ressonância Magnética Uro-RM
+41001184,Tomografia Computadorizada
+41001176,Tomografia Computadorizada
+41001435,Tomografia Computadorizada
+41001370,Tomografia Computadorizada
+41001478,Tomografia Computadorizada
+41001494,Tomografia Computadorizada
+41001451,Tomografia Computadorizada
+41001397,Tomografia Computadorizada
+41001419,Tomografia Computadorizada
+41001516,Tomografia Computadorizada
+41001443,Tomografia Computadorizada
+41001389,Tomografia Computadorizada
+41001486,Tomografia Computadorizada
+41001508,Tomografia Computadorizada
+41001460,Tomografia Computadorizada
+41001400,Tomografia Computadorizada
+41001427,Tomografia Computadorizada
+41001524,Tomografia Computadorizada
+41002040,Punção para Introdução de Contraste - Acrescentar ao exame de base.
+41001109,Tomografia Computadorizada
+41001095,Tomografia Computadorizada
+41001150,Tomografia Computadorizada
+41001079,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41001044,Tomografia Computadorizada
+41001117,Tomografia Computadorizada
+41001150,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41001133,Tomografia Computadorizada
+41001125,Tomografia Computadorizada
+41001125,Tomografia Computadorizada
+41001125,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41001150,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41001010,Tomografia Computadorizada
+41001192,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41001036,Tomografia Computadorizada
+41001079,Tomografia Computadorizada
+41001010,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41001273,Tomografia Computadorizada
+41001150,Tomografia Computadorizada
+41001028,Tomografia Computadorizada
+41001281,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41001010,Tomografia Computadorizada
+41001028,Tomografia Computadorizada
+41001150,Tomografia Computadorizada
+41001117,Tomografia Computadorizada
+41001150,Tomografia Computadorizada
+41001060,Tomografia Computadorizada (dulas Salivares)
+41001141,Tomografia Computadorizada
+41001125,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41001150,Tomografia Computadorizada (ou coxa ou perna ou pé) - unilateral
+41001010,Tomografia Computadorizada
+41001079,Tomografia Computadorizada
+41001141,Tomografia Computadorizada
+41002016,Coluna e Incluir Punção.
+40901106,Ecodopplercardiograma Transtorácico
+40901181,Ultrassonografia
+40901181,Ultrassonografia
+40901386,Ultrassonografia anexos)
+40901173,Ultrassonografia
+40901130,Ultrassonografia
+40901122,Ultrassonografia
+40901211,Ultrassonografia
+40901769,Ultrassonografia
+40901220,Ultrassonografia
+40901211,Ultrassonografia
+40901211,Ultrassonografia
+40901211,Ultrassonografia
+40901220,Ultrassonografia
+40901211,Ultrassonografia
+40901220,Ultrassonografia
+40901203,Ultrassonografia
+40901610,Ultrassonografia
+40901190,Ultrassonografia
+40901203,Ultrassonografia
+40901203,Ultrassonografia
+40901386,Ultrassonografia
+40901211,Ultrassonografia
+40901033,Ultrassonografia
+40901130,Ultrassonografia
+40901220,Ultrassonografia
+40901114,Ultrassonografia
+40901114,Ultrassonografia
+40901211,Ultrassonografia
+40901220,Ultrassonografia
+40901122,Ultrassonografia
+40901211,Ultrassonografia
+40901300,Ultrassonografia
+40901386,Ultrassonografia
+40901246,Ultrassonografia
+40901254,Ultrassonografia
+40901289,Ultrassonografia
+40901270,Ultrassonografia
+40901254,Ultrassonografia
+40901386,Ultrassonografia
+40901262,Ultrassonografia
+40901505,Ultrassonografia
+40901220,Ultrassonografia
+40901211,Ultrassonografia
+40901220,Ultrassonografia
+40901220,Ultrassonografia
+40901203,Ultrassonografia
+40901203,Ultrassonografia
+40901386,Ultrassonografia
+40901211,Ultrassonografia
+40901750,Ultrassonografia
+40901335,Ultrassonografia
+40902048,Ultrassonografia
+40901220,Ultrassonografia
+40901220,Ultrassonografia
+40901211,Ultrassonografia
+40901149,Ultrassonografia
+40901211,Ultrassonografia
+40901203,Ultrassonografia
+40901203,Ultrassonografia
+40901386,Ultrassonografia
+40901203,Ultrassonografia
+40901041,Ultrassonografia
+40901220,Ultrassonografia
+40901300,Ultrassonografia
+40901300,Ultrassonografia
+40901386,Ultrassonografia
+40901319,Ultrassonografia
+40901491,Ultrassonografia
+40901475,Doppler Colorido Arterial de Membro Inferior - (Unilateral)
+40901459,Doppler Colorido Arterial de Membro Superior (Unilateral)
+40901459,Doppler Colorido de Membro Superior (Unilateral)
+40901394,Doppler Colorido de Aorta e Artérias Renais
+40901408,Doppler Colorido de Aorta e Ilíacas
+40901513,Doppler Colorido de Artérias Peanianas s/ Fármaco Indução
+40901360,Doppler Colorido de Artérias Temporais
+40901416,Doppler Colorido de Arterias Viscerais (Mesentéricas Superior e Inferior e Tronco Celíaco)
+40901424,Doppler Colorido de Hemangioma
+40901386,Doppler Colorido de Órgão ou Estrutura Isolada
+40901360,Doppler Colorido de Vasos Cervicais Arteriais Bilaterais (Carótidas e Vertebrais)
+40901378,Doppler Colorido de Vasos Cervicais Venosos Bilaterais (Subclávias e Jugulares)
+40901432,Doppler Colorido de Veia Cava Inferior
+40901432,Doppler Colorido de Veia Cava Superior
+40901351,Doppler ColoridoTranscraniano ou Transfontanela sem Microbolhas
+40901351,(x3) Doppler Colorido Transcraniano ou Transfontanela com Microbolhas
+40901483,Doppler Colorido Venoso de Membro Inferior - (Unilateral)
+40901467,Doppler Colorido Venoso de Membro Superior - (Unilateral)
+40808025,RX - Abdome Agudo
+40808017,RX - Abdome Simples
+40801128,RX - Adenoides ou Cavum
+40803104,RX - Antebraço (Unilateral)
+40803066,RX - Articulação Acromioclavicular (Unilateral)
+40804038,RX - Articulação Coxofemoral / Quadril - (Unilateral)
+40803074,RX - Articulação Escapuloumeral / Ombro  - (Unilateral)
+40803023,RX - Articulação Esternoclavicular -(Unilateral)
+40801110,RX - Articulação Temporomandibular - (Bilateral)
+40804089,RX - Articulação Tibiotársica / Tornozelo (Unilateral)
+40804020,RX - Articulações Sacroilíacas
+40804011,RX - Bacia
+40803082,RX - Braço (Unilateral)
+40804100,RX - Calcâneo (Unilateral)
+40803040,RX - Clavícula (Unilateral)
+40802019,RX - Coluna Cervical - 3 incidências
+40802027,RX - Coluna Cervical - 5 incidências
+40802035,RX - Coluna Dorsal - 2 incidências
+40802043,RX - Coluna Dorsal - 4 incidências
+40802086,RX - Coluna Dorsolombar para Escoliose
+40802051,RX - Coluna Lombossacra - 3 incidências
+40802060,RX - Coluna Lombossacra - 5 incidências
+40803031,RX - Costelas - por Hemitórax (Unilateral)
+40803090,RX - Cotovelo (Unilateral)
+40804046,RX - Coxa (Unilateral)
+40801012,RX - Crânio - 2 incidências
+40801020,RX - Crânio - 3 incidências
+40801039,RX - Crânio - 4 incidências
+40803155,RX - Escafoide (Unilateral)
+40804119,RX - Escanometria
+40808114,"RX - Esqueleto (incidências básicas de: Crânio, Coluna, Bacia e Membros)"
+40803015,RX - Esterno
+40802116,RX - Incidência Adicional de Coluna
+40801209,RX - Incidência adicional de crânio ou face
+40804135,RX - Incidência Adicional de Membro Inferior
+40803147,RX - Incidência adicional de membro superior
+40804054,RX - Joelho (Unilateral)
+40805077,RX - Laringe ou Hipofaringe ou Pescoço (Partes Moles)
+40803120,RX - Mão ou Quirodáctilo (Unilateral)
+40803139,RX - Mãos e Punhos para Idade Óssea
+40801080,RX - Maxilar Inferior
+40803058,RX - Omoplata ou Escápula (Unilateral)
+40801055,RX - Órbitas - bilateral
+40801047,"RX - Orelha, Mastoides ou Rochedos - (Bilateral)"
+40801098,RX - Ossos da Face
+40804127,RX - Panorâmica dos Membros Inferiores
+40804062,RX - Patela (Unilateral)
+40804097,RX - Pé ou Pododáctilo (Unilateral)
+40804070,RX - Perna (Unilateral)
+40803112,RX - Punho (Unilateral)
+40802078,RX - Sacrococcix
+40801063,RX - Seios da Face
+40801071,RX - Sela Túrcica
+40805018,RX - Tórax - 1 incidência
+40805026,RX - Tórax - 2 incidências
+40805034,RX - Tórax - 3 incidências
+40805042,RX - Tórax - 4 incidências
+40808033,Mamografia
+40808041,Mamografia
+40808122,Densitometria Óssea - 1 Segmento
+40808130,Densitometria Óssea - 2 Segmentos (Coluna E Fêmur)
+40808149,Densitometria Óssea - Corpo Inteiro

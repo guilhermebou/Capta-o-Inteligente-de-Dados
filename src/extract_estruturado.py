@@ -18,8 +18,8 @@ def gerar_mensagem(solicitante, cpf, cd_tuss, ds_receita, data):
     mensagem = (
         f"Olá {solicitante}!\n"
         f"Portador do CPF {cpf_exibicao}\n"
-        f"Somos do Hospital X, estamos entrando em contato para lhe informar sobre o seu exame {cd_tuss} "
-        f"(receita: {ds_receita}) realizado na data {data}."
+        f"Somos do Hospital X, estamos entrando em contato para o registro do seu exame TUSS {cd_tuss} - "
+        f"{ds_receita}) realizado na data {data}."
         #implementação de um chatbot para dar dicas sobre cuidados e etc
         #(com uma base de dados legitima para treinamento da IA)
     )

@@ -14,7 +14,6 @@ keywords = {
 }
 
 def extract_keyword(text):
-
     if not isinstance(text, str):
         return ""
     for key, pattern in keywords.items():
@@ -26,14 +25,14 @@ def extract_keyword(text):
 def process_csv(input_file, output_file):
     df = pd.read_csv(input_file)
 
+
+    #df = df[df['CD_RECEITA'].isin(df_tuss_imagem['DESCRICAO'].apply(extract_keyword))]
+    #apos a normalização cruzar com codigo tuss
+
     df["Solicitação"] = df["DS_RECEITA"].apply(extract_keyword)
+    df = df[df["Solicitação"] != ""]
 
-    df.to_csv(output_file, index=False)
-    print(f"Arquivo processado e salvo em {output_file}")
-
-input_csv = "data/sample_nao_estruturados.csv"
-output_csv = "data/output/sample_nao_estruturados_solicitacoes.csv"
-process_csv(input_csv, output_csv)
+    return df
 
 end_time = time.time()
 elapsed_seconds = end_time - start_time

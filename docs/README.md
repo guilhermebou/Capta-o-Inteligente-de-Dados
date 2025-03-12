@@ -39,7 +39,7 @@ case_folks/
 │   │-- extract_gemini.py         # Extração de informações com IA (GOOGLE GEMINI)
 │   │-- dashboard.py              # Criação de Dashboard
 │-- data/
-|   │-- output/                             # Saída de dados
+│   │-- output/                             # Saída de dados
 │   │-- parcial_dados_nao_estruturados.csv  # Amostra dados
 │   │-- parcial_dados_estruturados.csv      # Amostra dados
 │   │-- sample_estruturados_teste.csv       # Base teste estruturada 
@@ -96,7 +96,7 @@ O dashboard estará acessível em **http://127.0.0.1:8050/**
 - Dispara mensagens aos pacientes com solicitações de exames de imagem pendentes.
 - Salva os resultados na pasta `data/output/`.
 
-![Detalhamento da Metodologia Empregada.](docs/midia/case1.png)
+![Detalhamento da Metodologia Empregada1.](docs/midia/case2.png)
   
 
 ### ✅ **`GET /sample_n_estruturado`**
@@ -104,7 +104,7 @@ O dashboard estará acessível em **http://127.0.0.1:8050/**
 - Identifica exames solicitados a partir de um dicionário de exames de imagem.
 - Salva o resultado na pasta `data/output/`.
 
-![Detalhamento da Metodologia Empregada.](docs/midia/case2.png)
+![Detalhamento da Metodologia Empregada2.](docs/midia/case2.png)
 
 ---
 

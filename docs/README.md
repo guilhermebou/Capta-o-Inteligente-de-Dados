@@ -95,7 +95,7 @@ O dashboard estará acessível em **http://127.0.0.1:8050/**
 - Dispara mensagens aos pacientes com solicitações de exames de imagem pendentes.
 - Salva os resultados na pasta `data/output/`.
 
-![Detalhamento da Metodologia Empregada1.](midia/case2.png)
+![Detalhamento da Metodologia Empregada1.](midia/case1.png)
   
 
 ### ✅ **`GET /sample_n_estruturado`**

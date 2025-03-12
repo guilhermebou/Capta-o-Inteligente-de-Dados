@@ -3,9 +3,8 @@
 📝 Descrição do Projeto
 
 Este projeto tem como objetivo processar dados estruturados e não estruturados para a extração de informações relevantes, para assim identificar automaticamente os pacientes com solicitações de exames de imagem pendentes. 
-O sistema utiliza **Flask**, **Pandas**, **SQLAlchemy** integrando **PostgreSQL**, **DASH**, utilização dA LLM **Gemini (GOOGLE)** para extração de informações a partir de textos livres nos dados não estruturados.
 
-O sistema conta com disparo de mensagens, geração de dashbord para análise de 
+O sistema utiliza **Flask**, **Pandas**, **SQLAlchemy** integrando **PostgreSQL**, **DASH**, utilização dA LLM **Gemini (GOOGLE)** para extração de informações a partir de textos livres nos dados não estruturados.
 
 O sistema permite:
 - Processamento de dados estruturados (exames com códigos TUSS)
@@ -96,7 +95,7 @@ O dashboard estará acessível em **http://127.0.0.1:8050/**
 - Dispara mensagens aos pacientes com solicitações de exames de imagem pendentes.
 - Salva os resultados na pasta `data/output/`.
 
-![Detalhamento da Metodologia Empregada1.](docs/midia/case2.png)
+![Detalhamento da Metodologia Empregada1.](midia/case2.png)
   
 
 ### ✅ **`GET /sample_n_estruturado`**
@@ -104,7 +103,7 @@ O dashboard estará acessível em **http://127.0.0.1:8050/**
 - Identifica exames solicitados a partir de um dicionário de exames de imagem.
 - Salva o resultado na pasta `data/output/`.
 
-![Detalhamento da Metodologia Empregada2.](docs/midia/case2.png)
+![Detalhamento da Metodologia Empregada2.](midia/case2.png)
 
 ---
 

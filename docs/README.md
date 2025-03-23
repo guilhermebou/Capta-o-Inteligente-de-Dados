@@ -1,4 +1,4 @@
-# CASE FOLKS - Captação Inteligente
+# Captação Inteligente de Dados
 
 📝 Descrição do Projeto
 
